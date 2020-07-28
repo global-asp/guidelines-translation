@@ -12,6 +12,7 @@ Each of the regional or theme-based Storybooks websites on the portal is based a
     * [Pronunciation of proper names](#pronunciation-of-proper-names)
     * [List of proper names](#list-of-proper-names)
 * [Stories](#stories)
+* [Other guidelines](#other-guidelines)
 * [License](#license)
 
 ## Translator app
@@ -149,6 +150,12 @@ ID | Title | License | Words | Vocabulary notes / FAQs
 0342 | [Punishment](https://globalstorybooks.net/translator/#0342) | [CC BY](https://creativecommons.org/licenses/by/3.0/) | 132 | 
 
 * Note: _If you click on a story but get a different title, someone else has already translated that story._
+
+## Other guidelines
+
+* [Process Outline](https://github.com/global-asp/guidelines-process)
+* [Audio recording guidelines](https://github.com/global-asp/guidelines-audio-recording)
+* [Audio editing guidelines](https://github.com/global-asp/guidelines-audio-editing)
 
 ## License
 
